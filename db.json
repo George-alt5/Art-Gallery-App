@@ -1,0 +1,16 @@
+{
+  "artworks": [
+    {
+      "id": "1",
+      "title": "Starry Night",
+      "artist": "Vincent",
+      "description": "A swirling night sky filled with stars over a peaceful town."
+    },
+    {
+      "id": "2",
+      "title": "The Persistence of Memory",
+      "artist": "Salvador Dalí",
+      "description": "Iconic melting clocks in a dreamlike desert landscape."
+    }
+  ]
+}
