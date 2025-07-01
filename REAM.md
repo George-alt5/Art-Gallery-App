@@ -1,7 +1,5 @@
 # Art Gallery App
 
-#### A single-page application (SPA) built with HTML, CSS, and JavaScript for Moringa School Phase 1 Project.
-
 #### By **George Kihoro**
 
 ---
@@ -34,13 +32,4 @@ The **Art Gallery App** is a minimalist single-page application (SPA) that allow
 
 ### View Live Site
 
-Visit the deployed application here: [Art Gallery App on GitHub Pages](https://github.com/George-alt5/Art-Gallery-App.git)  
-
-### Local Development
-
-To run the project locally:
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/George-alt5/Art-Gallery-App.git
+Visit the deployed application here: [Art Gallery App on GitHub Pages](https://george-alt5.github.io/Art-Gallery-App/)  
